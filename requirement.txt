@@ -1,0 +1,13 @@
+transformers 
+huggingface_hub
+langchain
+pandas
+numpy
+python-dotenv
+streamlit
+langchain-huggingface
+SpeechRecognition
+bitsandbytes
+accelerate
+PyAudio
+pyttsx3
